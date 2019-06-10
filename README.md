@@ -6,5 +6,6 @@ https://fhem.de/commandref.html#FHEMWEB
 ## install:
 `attr WEB CssFiles pgm2/smarthome.css`
 
+screenshot: 
 
-[image https://github.com/dirkclemens/fhem_css/blob/master/fhem_web.png]
+https://github.com/dirkclemens/fhem_css/blob/master/fhem_web.png
