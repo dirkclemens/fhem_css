@@ -8,4 +8,4 @@ https://fhem.de/commandref.html#FHEMWEB
 
 screenshot: 
 
-https://github.com/dirkclemens/fhem_css/blob/master/fhem_web.png
+![screenshot](https://github.com/dirkclemens/fhem_css/blob/master/fhem_web.png)
