@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg4662"
+   version="1.1"
+   viewBox="0 0 37.570834 21.166668"
+   height="80"
+   width="142">
+  <defs
+     id="defs4656">
+    <linearGradient
+       id="linearGradient5219-5">
+      <stop
+         id="stop5215"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop5217"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       y2="287.11099"
+       x2="69.490074"
+       y1="286.17557"
+       x1="60.00201"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5228"
+       xlink:href="#linearGradient5219-5" />
+  </defs>
+  <metadata
+     id="metadata4659">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     id="layer6">
+    <path
+       id="rect5207-9"
+       d="m 28.921504,3.1049089 -12.487308,0.00691 c -4.385178,0.00243 -7.9330872,3.2229782 -7.9549532,7.2209691 l -0.0042,0.766015 c -0.02187,3.99799 3.4908352,7.214637 7.8760132,7.212211 l 12.487308,-0.0069 c 4.385156,-0.0024 7.933065,-3.222989 7.954931,-7.22098 l 0.0042,-0.766014 C 36.819381,6.3191289 33.306679,3.1024828 28.921502,3.1049089 Z"
+       style="opacity:1;fill:#878787;fill-opacity:1;fill-rule:nonzero;stroke:#878787;stroke-width:0.85301191;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     style="display:inline"
+     id="layer3">
+    <path
+       id="path5211"
+       d="M 1.8819508,10.70796 A 9.1604166,9.194541 0 0 0 11.042368,19.902501 9.1604166,9.194541 0 0 0 20.202784,10.70796 9.1604166,9.194541 0 0 0 11.042368,1.5134192 9.1604166,9.194541 0 0 0 1.8819508,10.70796 Z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
