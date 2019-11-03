@@ -9,3 +9,5 @@ https://fhem.de/commandref.html#FHEMWEB
 screenshot: 
 
 ![screenshot](https://github.com/dirkclemens/fhem_css/blob/master/fhem_web.png)
+
+![screenshot](https://github.com/dirkclemens/fhem_css/blob/master/fhemweb_white.png)
